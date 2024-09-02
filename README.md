@@ -1,2 +1,2 @@
 # municipal
-Tracking municipal information for Ontario Citizend
+Tracking municipal information for Ontario Citizens
